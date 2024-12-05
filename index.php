@@ -301,7 +301,7 @@
                 </div>
             </div>
             <div class="product-items flex md:flex-nowrap flex-wrap justify-between gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product1.png" alt="">
@@ -332,7 +332,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product2.png" alt="">
@@ -361,7 +361,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product3.png" alt="">
@@ -420,7 +420,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product_4.png" alt="">
@@ -451,7 +451,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product_5.png" alt="">
@@ -480,7 +480,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product_6.png" alt="">
@@ -533,7 +533,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product7.png" alt="">
@@ -564,7 +564,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product8.png" alt="">
@@ -593,7 +593,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product9.png" alt="">
@@ -646,7 +646,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product10.png" alt="">
@@ -677,7 +677,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product11.png" alt="">
@@ -706,7 +706,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product12.png" alt="">
@@ -756,7 +756,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product13.png" alt="">
@@ -787,7 +787,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product14.png" alt="">
@@ -816,7 +816,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product15.png" alt="">
@@ -861,7 +861,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product16.png" alt="">
@@ -892,7 +892,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product17.png" alt="">
@@ -921,7 +921,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product18.png" alt="">
@@ -966,7 +966,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product18.png" alt="">
@@ -997,7 +997,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product19.png" alt="">
@@ -1026,7 +1026,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product20.png" alt="">
@@ -1071,7 +1071,7 @@
                 </div>
             </div>
             <div class="product-items flex justify-between flex-wrap md:flex-nowrap gap-y-[0.9375rem]">
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product22.png" alt="">
@@ -1102,7 +1102,7 @@
 
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product23.png" alt="">
@@ -1131,7 +1131,7 @@
                     </div>
                 </a>
 
-                <a href="#" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
+                 <a href="chitietsanpham.php" title="" class="items  h-full w-full box-shadow-product pt-[1.875rem] md:pt-0">
                     <div class="flex flex-col items-center">
                         <div class="c-img md:pt-[100%]  w-full pt-[50%]">
                             <img src="theme/frontend/images/product24.png" alt="">
