@@ -4,23 +4,23 @@
     <div class="swiper swiper-banner-top">
         <div class="swiper-wrapper swiper-wrapper-banner-top">
             <div class="swiper-slide swiper-slide-banner-top">
-                <a href="#" title="">
+                <a href="chitietsanpham.php" title="">
                     <img src="theme/frontend/images/banner_slide1.png" alt="">
                 </a>
             </div>
 
             <div class="swiper-slide swiper-slide-banner-top">
-                <a href="#" title="">
+                <a href="chitietsanpham.php" title="">
                     <img src="theme/frontend/images/banner_slide2.png" alt="">
                 </a>
             </div>
             <div class="swiper-slide swiper-slide-banner-top">
-                <a href="#" title="">
+                <a href="chitietsanpham.php" title="">
                     <img src="theme/frontend/images/banner_slide3.png" alt="">
                 </a>
             </div>
             <div class="swiper-slide swiper-slide-banner-top">
-                <a href="#" title="">
+                <a href="chitietsanpham.php" title="">
                     <img src="theme/frontend/images/banner_slide4.png" alt="">
                 </a>
             </div>
@@ -56,7 +56,7 @@
                 <div class="swiper swiper-product-sale-home w-full">
                     <div class="swiper-wrapper">
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_1.png" alt="">
                                     </div>
@@ -77,7 +77,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_2.png" alt="">
                                     </div>
@@ -98,7 +98,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_3.png" alt="">
                                     </div>
@@ -119,7 +119,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_4.png" alt="">
                                     </div>
@@ -140,7 +140,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_5.png" alt="">
                                     </div>
@@ -161,7 +161,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_1.png" alt="">
                                     </div>
@@ -182,7 +182,7 @@
                             </div>
 
                             <div class="swiper-slide flex">
-                                <a href="#" title="" class="h-full flex flex-col items items-center p-[15px]">
+                                <a href="chitietsanpham.php" title="" class="h-full flex flex-col items items-center p-[15px]">
                                     <div class="c-img pt-[100%] mb-[0.625rem] w-full">
                                         <img src="theme/frontend/images/sp_2.png" alt="">
                                     </div>

@@ -23,6 +23,10 @@
 </div>
 </div>
 <section>
-
+    <div class="container">
+        <div>
+            <h1 class="my-[20px]">Re- Opening Bếp Nam Dương 29 Xã Đàn</h1>
+        </div>
+    </div>
 </section>
 <?php include "footer.php"; ?>
