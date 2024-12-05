@@ -1,0 +1,21 @@
+{
+  "name": "bepnamduong",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "css": "npx tailwindcss -i input.css -o theme/frontend/css/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "ansi-regex": "^6.1.0",
+    "ansi-styles": "^6.2.1",
+    "any-promise": "^1.3.0"
+  },
+  "keywords": [],
+  "description": ""
+}
