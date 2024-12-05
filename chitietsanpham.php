@@ -253,7 +253,7 @@
                     </ul>
                 </div>
                 <div class="flex items-center justify-center lg:hidden">
-                    <div class="relative group">
+                    <div class="relative group z-10">
                     <button id="dropdown-button-product-detail" class="inline-flex justify-center w-full px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-blue-500">
                     <span class="mr-2">Chi tiết sản phẩm</span>
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 ml-2 -mr-1" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
